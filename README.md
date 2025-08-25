@@ -1,5 +1,5 @@
 # unicorns-vs-dragons-v2
-v1 game originally written in Python, then later v2 was rewritten as a challenge in Vanilla JavaScript and HTML. 
+Version 1 of the game originally written in Python, then later version 2 was rewritten as a code challenge in Vanilla JavaScript and HTML.
 
 
 <h3>Vanilla JS + HTML Gameplay</h3>
